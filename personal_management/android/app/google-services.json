@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "452016769161",
+    "project_id": "personal-management-ysc94t",
+    "storage_bucket": "personal-management-ysc94t.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:452016769161:android:395003ca68f8d153031e58",
+        "android_client_info": {
+          "package_name": "com.mycompany.personalmanagement"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCyEOpQLOJE1jDEJG61aVp-YhHWi-HZKdQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
